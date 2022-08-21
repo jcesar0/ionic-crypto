@@ -1,0 +1,7 @@
+{
+  "name": "crypto-now",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
